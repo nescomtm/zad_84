@@ -6,3 +6,5 @@
 /*
 console.log('Witaj, ' + name);
 */
+
+// komentarz
